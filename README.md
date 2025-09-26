@@ -232,12 +232,13 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help, please open an issue on GitHub or contact us at support@tryonce.com.
+If you have any questions or need help, please open an issue on GitHub or contact us at srinadherakala1595@gmail.com.
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Try Once Team</p>
+  <p>Made with ❤️ by the Try Once Team srinadh</p>
   <p>Discover amazing products at unbeatable prices!</p>
 </div>
+
 
